@@ -1,0 +1,41 @@
+body {
+
+  background-color: #efecca;
+  font-family: Arial; sans-serif;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav a {
+  display: block;
+  padding: 15px;
+  font-family: sans-serif;
+  color: #002f2f;
+  text-decoration: none;
+
+}
+
+nav a:hover {
+  color: #ffffff;
+  background-color: #002f2f;
+
+}
+
+header, footer {
+  display: block;
+  width: 100%;
+  background-color: #a7a37e;
+}
+
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+}

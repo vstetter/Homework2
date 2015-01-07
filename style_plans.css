@@ -1,0 +1,41 @@
+section {
+  display: inline-block;
+  width: 90%
+  margin: 5px auto;
+}
+
+.box {
+  background-color: #046380;
+  display: inline-block;
+  vertical-align: top;
+  width: 40%;
+  height: 600px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+
+.imgsf {
+  display: inline-block;
+  vertical-align: top;
+  width: 60%;
+  padding: 5px;
+  margin: 5px 20% 5px 20%;
+}
+.img1 {
+  display: inline-block;
+  vertical-align: top;
+  width: 38%;
+  padding: 5px;
+}
+
+.img2 {
+  display: inline-block;
+  vertical-align: top;
+  width: 54%;
+  padding: 5px;
+}
+
+h3, h5, p {
+  text-align: center;
+}
